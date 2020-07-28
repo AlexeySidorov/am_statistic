@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:457329527477:android:6902b4af8a081edd72ccfc",
+        "mobilesdk_app_id": "1:457329527477:android:d759850ea432c23d72ccfc",
         "android_client_info": {
-          "package_name": "com.xayccone.statisticc19"
+          "package_name": "com.xayccone.amstatistic"
         }
       },
       "oauth_client": [
