@@ -59,7 +59,7 @@ class Covid19App extends StatelessWidget {
         GlobalWidgetsLocalizations.delegate
       ],
       supportedLocales: [
-        //Locale.fromSubtags(languageCode: 'en')
+        Locale.fromSubtags(languageCode: 'en'),
         Locale.fromSubtags(languageCode: 'ru')
       ],
       localeResolutionCallback: (locale, supportedLocales) {
